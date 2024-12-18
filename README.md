@@ -75,3 +75,39 @@ Si hay un error, muestra un mensaje de error.
 ![editar component](https://github.com/user-attachments/assets/817bfff6-6a45-4139-a0e0-12260f45b2a4)
 ![editar component2](https://github.com/user-attachments/assets/bf7eb0ac-2f2c-45c5-8eb8-ee82a0c233a6)
   
+
+
+Al final de todo el proyecto queda de esta manera 
+
+Crear producto
+![crear producto](https://github.com/user-attachments/assets/a27b97e6-e75e-4f4e-9744-8a0c21dc66f8)
+
+
+editar producto
+
+![editar producto](https://github.com/user-attachments/assets/f178dfef-6754-4454-9728-3c7abfb70358)
+
+
+lista de usuarios
+
+![lista de usuarios](https://github.com/user-attachments/assets/39abd684-2536-4d96-a1ce-b8a246927d85)
+
+lista de productos
+![listadeproductos](https://github.com/user-attachments/assets/636e0adf-6bc5-4675-b3eb-f6f6f703888a)
+
+
+login
+![login](https://github.com/user-attachments/assets/63a42ecf-3257-4921-be51-4cbcdd14a812)
+
+
+menu
+![menu](https://github.com/user-attachments/assets/3cb41274-4373-4f13-b7cf-1ed7ea3c8f1c)
+
+
+modificar usuario
+
+![modificarUsuario](https://github.com/user-attachments/assets/bb69644f-83c7-4bbf-8d2d-a87323eba5d9)
+
+registrarse
+
+![registrarse](https://github.com/user-attachments/assets/e6f89255-b725-46d8-9c72-59b3b2cc8494)
